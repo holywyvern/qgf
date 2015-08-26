@@ -20,6 +20,10 @@ Wx windows for the editor
 Audiere libraries
 Freetype
 
+I included some library headers before cleaning the code, please feel free to 
+use them.
+If you want I can give you my version with compiled binaries for safety.
+
 Put all the .lib inside a folder called "lib" and there you go.
 
 At the moment sources or libraries for those bindings are not provided, If someone is willing to help me, please I'll be glad to clean this mess.
@@ -27,3 +31,5 @@ At the moment sources or libraries for those bindings are not provided, If someo
 At the moment, only works on windows... sorry
 
 You will need visual studio 2010, sorry again... My compilation steps were rushed... and out of my scope...
+
+You will need tinyxml2 on the libg folder on the editor, also wx widgets...
